@@ -1,0 +1,1 @@
+{"name":"fioristudio","version":"1.0.0","description":"UI5 walkthrough application","main":"index.js","scripts":{"start":"ui5 serve -o index.html"},"keywords":[],"author":"","license":"ISC","devDependencies":{"ui5-middleware-simpleproxy":"^3.5.1"}}
